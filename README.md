@@ -76,6 +76,7 @@ Velox Launcher interacts with third-party services and projects, including:
 - Ely.by
 - WebView2
 - Xyrios
+
 These services and projects are not owned by or affiliated with Velox Launcher unless explicitly stated. Their names and trademarks belong to their respective owners. Their own terms and licenses apply.
 Disclaimer
 Velox Launcher is an independent third-party project and is not an official Minecraft, Mojang, Microsoft, or Modrinth product.
